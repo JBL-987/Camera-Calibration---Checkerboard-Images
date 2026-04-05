@@ -1,0 +1,30 @@
+=======================================================
+  CAMERA CALIBRATION REPORT
+=======================================================
+  Generated : 2026-04-05 23:53:54
+  Image dir : calib_images
+  Images    : 13
+  Pattern   : 8x5
+  Img size  : 1280x720 px
+
+--- Intrinsic Matrix (K) ---
+  [   652.6921      0.0000    621.9754 ]
+  [     0.0000    726.5311    269.4891 ]
+  [     0.0000      0.0000      1.0000 ]
+
+  fx : 652.6921 px
+  fy : 726.5311 px
+  cx : 621.9754 px
+  cy : 269.4891 px
+
+--- Distortion Coefficients ---
+  k1 : +0.552218
+  k2 : -0.614690
+  p1 : -0.048787
+  p2 : +0.002430
+  k3 : +0.180150
+
+--- Reprojection Error ---
+  Mean error : 1.0960 px
+  Quality    : Fair — consider recalibrating
+=======================================================
